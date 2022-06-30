@@ -1,5 +1,5 @@
 import { useState } from "react"
-import useProyectos from "../../hooks/useProyectos"
+import useProyectos from "../hooks/useProyectos"
 import Alerta from "./Alerta"
 const FormularioColaborador = () => {
 

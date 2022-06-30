@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
-import useProyectos from "../../hooks/useProyectos"
-import useAuth from "../../hooks/useAuth"
+import useProyectos from "../hooks/useProyectos"
+import useAuth from "../hooks/useAuth"
 import Busqueda from "./Busqueda"
 
 const Header = () => {

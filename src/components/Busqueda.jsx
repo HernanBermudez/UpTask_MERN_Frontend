@@ -1,6 +1,6 @@
 import { Fragment, useState } from "react";
 import { Dialog, Combobox, Transition} from '@headlessui/react'
-import useProyectos from "../../hooks/useProyectos";
+import useProyectos from "../hooks/useProyectos";
 
 function classNames(...classes) {
     return classes.filter(Boolean).join('')

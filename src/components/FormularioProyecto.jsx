@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react"
 import { useParams } from "react-router-dom"
-import useProyectos from "../../hooks/useProyectos"
+import useProyectos from "../hooks/useProyectos"
 import Alerta from "./Alerta"
 
 const FormularioProyecto = () => {

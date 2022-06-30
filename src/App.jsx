@@ -9,10 +9,10 @@ import ConfirmarCuenta from "./pages/ConfirmarCuenta"
 import Proyectos from "./pages/Proyectos"
 import Proyecto from "./pages/Proyecto"
 import EditarProyecto from "./pages/EditarProyecto"
-import NuevoProyecto from "./pages/NuevoProyecto"
+import NuevoProyecto from './pages/NuevoProyecto'
 import NuevoColaborador from "./pages/NuevoColaborador"
-import { AuthProvider } from "../context/AuthProvider"
-import { ProyectosProvider } from "../context/ProyectosProvider"
+import { AuthProvider } from "./context/AuthProvider"
+import { ProyectosProvider } from "./context/ProyectosProvider"
 
 function App() {
 

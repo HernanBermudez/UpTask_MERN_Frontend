@@ -1,4 +1,4 @@
-import useProyectos from "../../hooks/useProyectos"
+import useProyectos from "../hooks/useProyectos"
 import { useParams } from "react-router-dom"
 import { useEffect } from "react"
 import FormularioProyecto from "../components/FormularioProyecto"

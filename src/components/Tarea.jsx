@@ -1,6 +1,6 @@
 import { formatearFecha } from "../helpers/formatearFecha"
-import useProyectos from "../../hooks/useProyectos"
-import useAdmin from "../../hooks/useAdmin"
+import useProyectos from "../hooks/useProyectos"
+import useAdmin from "../hooks/useAdmin"
 
 const Tarea = ({tarea}) => {
 
